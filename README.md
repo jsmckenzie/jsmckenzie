@@ -8,7 +8,7 @@ Shortcuts to various repositories are below
 Histology | [🦩](https://github.com/jsmckenzie/flamingo) |
 | File import| [🐙](https://github.com/jsmckenzie/octopus) |
 | Preprocessing| [🦕🍽](https://github.com/jsmckenzie/stegosaurus) ~ [🦔](https://github.com/jsmckenzie/hedgehog) ~ [🌈](https://github.com/jsmckenzie/rainbow) ~ [🦉](https://github.com/jsmckenzie/owl)|
-| Coregistration| [🐆](https://github.com/jsmckenzie/leopard) |
+| Coregistration| [👑🐶](https://github.com/jsmckenzie/corgi) |
 | Stats | [🦣](https://github.com/jsmckenzie/maml) ~ [🦓](https://github.com/jsmckenzie/zebra) |
 | AI/ML/DL | [🔴🐼](https://github.com/jsmckenzie/redpanda) |
 | | |
